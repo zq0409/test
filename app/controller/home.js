@@ -7,7 +7,7 @@ class HomeController extends Controller {
     const { ctx } = this;
     let test=gg;
  
-    ctx.body =await "hi,egg";
+    ctx.body =await "hi,egg11111";
      
   
   }
